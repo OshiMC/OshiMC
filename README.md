@@ -1,4 +1,4 @@
-
+![logo](https://github.com/OshiMC/OshiMC/blob/main/intricate-explorer-t11SFyhfjkk-unsplash%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Oshini Malshika</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
