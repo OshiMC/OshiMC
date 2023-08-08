@@ -1,4 +1,4 @@
-![logo](https://github.com/OshiMC/OshiMC/blob/main/milad-fakurian-aaSTQ-wY5DQ-unsplash.jpg)
+
 <h1 align="center">Hi 👋, I'm Oshini Malshika</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
