@@ -1,6 +1,6 @@
 ![logo](https://github.com/OshiMC/OshiMC/blob/main/intricate-explorer-t11SFyhfjkk-unsplash%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Oshini Malshika</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+
 
 <img align="right" alt="Welcome" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIzdXZlOGZ4NWk0cXl0bTBqdDhqbmNrOTBkZDk5eGozNnAxeHh4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
