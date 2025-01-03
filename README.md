@@ -1,5 +1,16 @@
 ![logo](https://github.com/OshiMC/OshiMC/blob/main/intricate-explorer-t11SFyhfjkk-unsplash%20(1).jpg)
-<h1 align="center">Hi 👋, I'm Oshini Malshika</h1>
+<div align="center">
+    <h3></h3>
+    <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6CC6F7&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Oshini+Malshika" alt="Typing SVG">
+    </a>
+</div>
+
+
+<p style="text-align: left; padding-left: 90px">I'm ,</p>
+            <a href="https://git.io/typing-svg"><img
+                    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=1000&pause=1000&color=F7F409F4&vCenter=true&width=800&height=100&lines=Software+Engineer;Software+Developer;Web+Designer+;Web+Developer;UX+%2F+UI+Designer;Professional+Coder"
+                    alt="Typing SVG"/></a>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -69,6 +80,15 @@
   <h3>🔝 Top Contributed Repo</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=OshiMC&limit=5&theme=darcula&combine_all_yearly_contributions=true" alt="Top Contributed Repositories">
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OshiMC&theme=darcula" alt="Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OshiMC&theme=darcula" alt="Repos Per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OshiMC&theme=darcula" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OshiMC&theme=darcula" alt="Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OshiMC&theme=darcula&utcOffset=8" alt="Productive Time">
+</div>
+
+
   <hr/>
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=OshiMC&icon=6&color=13" alt="Profile Visit Count">
@@ -77,11 +97,6 @@
 
 
 
-###
-
-<img src="https://raw.githubusercontent.com/OshiMC/OshiMC/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
