@@ -9,7 +9,7 @@
 
 <p style="text-align: left; padding-left: 90px">I'm ,</p>
             <a href="https://git.io/typing-svg"><img
-                    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=1000&pause=1000&color=F7F409F4&vCenter=true&width=800&height=100&lines=Software+Engineer;Software+Developer;Web+Designer+;Web+Developer;UX+%2F+UI+Designer;Professional+Coder"
+                    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=1000&pause=1000&color=90e0ef&vCenter=true&width=800&height=100&lines=Software+Engineer;Software+Developer;Web+Designer+;Web+Developer;UX+%2F+UI+Designer;Professional+Coder"
                     alt="Typing SVG"/></a>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
