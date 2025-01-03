@@ -1,4 +1,4 @@
-![logo](https://github.com/OshiMC/OshiMC/blob/main/intricate-explorer-t11SFyhfjkk-unsplash%20(1).jpg)
+![logo](https://github.com/OshiMC/OshiMC/blob/main/cover.jpg)
 <div align="center">
     <h3></h3>
     <a href="https://git.io/typing-svg">
