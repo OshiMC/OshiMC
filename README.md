@@ -1,4 +1,4 @@
-![logo](https://github.com/OshiMC/OshiMC/blob/main/cover.jpg)
+![logo](https://github.com/OshiMC/OshiMC/blob/main/cover.png)
 <div align="center">
     <h3></h3>
     <a href="https://git.io/typing-svg">
